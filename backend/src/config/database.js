@@ -1,7 +1,7 @@
 module.exports = {
   dialect: 'mysql',
   host: 'localhost',
-  username: 'admin',
+  username: 'mcarneiro3301',
   password: 'admin',
   database: 'chat_online',
   define: {
